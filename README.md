@@ -1,8 +1,7 @@
-# Joncarter
-Beautiful HTML,CSS and Bootstrap Portfolio
+ HTML,CSS and Bootstrap Portfolio
 
 # Demo
-- https://joncarter.netlify.app/
+
 
 # Clone Project
 - https://github.com/SA7MAN/joncarter
@@ -17,11 +16,9 @@ Beautiful HTML,CSS and Bootstrap Portfolio
 
 
 # Credit
+- https://github.com/SA7MAN/joncarter
 - https://fonts.google.com/
 - https://line-awesome.com/
 - https://unsplash.com/
 - https://michalsnik.github.io/aos/
 
-
-# Watch more
-For more videos visit to my YouTube channel. [SA7MAN](https://www.youtube.com/c/SA7MAN)
