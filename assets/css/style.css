@@ -110,6 +110,9 @@ img {
     #content-wrapper {
         padding-left: var(--sidbar-width);
     }
+
+
+
 }
 
 /* BTN */
@@ -200,3 +203,16 @@ img {
     font-size: 24px;
 }
 
+.person {
+    margin-bottom: 2.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.person img {
+    border-radius: var(--border-radius-lg);
+    width: 17rem;
+    box-shadow: 0 0 0 0.4rem var(--color-brand);
+    margin-bottom: 1.2rem;
+}
