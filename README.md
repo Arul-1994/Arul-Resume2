@@ -1,11 +1,5 @@
  HTML,CSS and Bootstrap Portfolio
 
-# Demo
-
-
-# Clone Project
-- https://github.com/SA7MAN/joncarter
-
 # Features
 - Fully Responsive
 - Mobile Navigations
